@@ -16,3 +16,14 @@ This repository contains practical scripts focused on operational efficiency, es
 ## Notes
 
 All examples are anonymized and do not include private, internal, or sensitive information.
+
+
+## Available scripts
+
+### PowerShell
+
+* **create-working-folders.ps1**
+  Creates a basic folder structure with input, output, logs, and documentation folders.
+
+  Useful for preparing a clean workspace before starting an operational analysis task.
+
